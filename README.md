@@ -27,7 +27,7 @@ To use this project, simply clone the repository and run the butterfly.py script
 
 Python 3.x
 Turtle module (built-in with Python)
-pip install turtle
+(pip install turtle)
 
 # Author
 
