@@ -27,6 +27,7 @@ To use this project, simply clone the repository and run the butterfly.py script
 
 Python 3.x
 Turtle module (built-in with Python)
+pip install turtle
 
 # Author
 
@@ -41,7 +42,7 @@ This project is licensed under the MIT License.
 
 Clone the repository: git clone https://github.com/SnakeCodinx/Beautiful-Butterfly-Using-Python-Turtle.git
 Navigate to the project directory: cd Beautiful-Butterfly-Using-Python-Turtle
-Run the script: python butterfly.py
+Run the script: py butterfly.py
 
 # Customization
 
