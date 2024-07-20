@@ -8,7 +8,7 @@ This project uses Python's built-in Turtle module to create a stunning butterfly
 # Screenshots
 
 Beautiful Butterfly
-![screenshot](screenshot.png)
+![screenshot](Screenshot.png)
 
 # Toutorial is available on youtube channel 
 click on the link to see :- ([Open in Youtube]())
