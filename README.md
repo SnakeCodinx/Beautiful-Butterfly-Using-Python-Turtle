@@ -1,17 +1,16 @@
 # Beautiful Butterfly Using Python Turtle
-This repository contains a Python script that uses the Turtle graphics module to draw a beautiful butterfly.
-
-# Description
 
 This project uses Python's built-in Turtle module to create a stunning butterfly design. The script uses a combination of loops, functions, and Turtle's drawing functions to create the intricate patterns and colors of the butterfly's wings.
+
+
+# Tutorial is available on youtube channel 
+click on the link to see :- ([Open in Youtube](https://youtu.be/08rlPhbpavU))
 
 # Screenshots
 
 Beautiful Butterfly
 ![screenshot](Screenshot1.png)
 
-# Tutorial is available on youtube channel 
-click on the link to see :- ([Open in Youtube](https://youtu.be/08rlPhbpavU))
 
 # Features
 
@@ -63,7 +62,7 @@ Contributions are welcome! If you'd like to add new features or improve the scri
 
 If you encounter any issues or have questions, please open an issue in this repository.
 
-# snakecoding_12
+# snake.coding
 
 We create a project each 4 days with voting on our <a href="https://youtube.com/@snakecoding_12" target="_blank">Youtube</a> channel.
 You can vote for upcoming projects on our channel **community** page :wink:
